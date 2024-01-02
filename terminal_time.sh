@@ -1,2 +1,5 @@
+
 echo 'date'
-echo Welcome  'whoami'
+echo Welcome  '
+echo date
+echo "welcome my name is ali"
