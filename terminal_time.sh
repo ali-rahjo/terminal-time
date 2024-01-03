@@ -1,5 +1,3 @@
 
-echo 'date'
-echo Welcome  '
-echo date
-echo "welcome my name is ali"
+echo (date)
+echo welcome 'whoami' to §(hostname)
