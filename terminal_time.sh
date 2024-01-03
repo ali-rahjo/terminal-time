@@ -1,3 +1,2 @@
-
-echo (date)
-echo welcome 'whoami' to §(hostname)
+echo `date`
+echo Welcome `whoami` to `hostname`
